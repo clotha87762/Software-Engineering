@@ -1,0 +1,4 @@
+TDD 在大多數時候都是一個好的開發方法，可以達到很好的模組化，也不會產生太多多餘的程式碼，debug也方便得多。
+TDD is a good way of developing in the most of time,TDD can lead to more modularized code,reduce the superfluous code,and easy debugging.
+但是TDD會花費大量的時間，如果開發的時間並不充裕，那TDD可能就不是一個好點子。
+However,TDD will take a lot of time,if you don't have enough time on developing,TDD won't be a good idea.
